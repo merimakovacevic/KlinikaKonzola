@@ -1,1 +1,1 @@
-# KlinikaKonzola
+# KlinikaWindowsApplication
